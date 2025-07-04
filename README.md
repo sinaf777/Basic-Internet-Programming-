@@ -1,1 +1,1 @@
-exercises I do for front end roadmap :)
+exercises I do for frontend roadmap :)
