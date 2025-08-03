@@ -1,1 +1,1 @@
-exercises I do for frontend roadmap :)
+basic blog website project
